@@ -1,3 +1,6 @@
 # Wncc-assignment-
 Q1) 
-Ans:-
+<br>
+Ans:- The preprocessing steps I used for my model are as follows :-
+<br>
+
