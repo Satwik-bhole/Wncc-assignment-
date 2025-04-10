@@ -7,5 +7,9 @@ Ans:- The preprocessing steps I used for my model in order are as follows :-
 <br>
       2) removing all commas,question marks,exclamation marks,etc (they dont make diffrence in query recognition much )
 <br>
-      3) tokenization
+      3) tokenization :- converting queries into tokens (separate words)
+<br>
+      4) lemmatization :- I used lemmatization because i thought it would not make any diffrence in judging the query if it was words with -ing ending or similar something converted to base word (like playing to play) .It will also reduce vocabulory size and increase accuracy of model 
+<br>
+      
 
